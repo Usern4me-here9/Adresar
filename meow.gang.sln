@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "meow.gang", "meow.gang\meow.gang.csproj", "{B0E3E4A1-A9AA-4B7C-BE9A-48E059729C3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAF6967B-2F26-4783-9D01-2EE1A77D5D9A}"
+	ProjectSection(SolutionItems) = preProject
+		meow.gang\bin\Debug\net7.0-windows\Adresar.csv = meow.gang\bin\Debug\net7.0-windows\Adresar.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E3E4A1-A9AA-4B7C-BE9A-48E059729C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E3E4A1-A9AA-4B7C-BE9A-48E059729C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E3E4A1-A9AA-4B7C-BE9A-48E059729C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E3E4A1-A9AA-4B7C-BE9A-48E059729C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B65205-CE31-4015-863D-F9272A39BB71}
+	EndGlobalSection
+EndGlobal

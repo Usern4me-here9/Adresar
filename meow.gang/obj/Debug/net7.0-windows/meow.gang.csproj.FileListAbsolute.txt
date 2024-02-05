@@ -1,0 +1,17 @@
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\bin\Debug\net7.0-windows\meow.gang.exe
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\bin\Debug\net7.0-windows\meow.gang.deps.json
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\bin\Debug\net7.0-windows\meow.gang.runtimeconfig.json
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\bin\Debug\net7.0-windows\meow.gang.dll
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\bin\Debug\net7.0-windows\meow.gang.pdb
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.Form1.resources
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.dll
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\refint\meow.gang.dll
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.pdb
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\meow.gang.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\meow.gang\meow.gang\obj\Debug\net7.0-windows\ref\meow.gang.dll
